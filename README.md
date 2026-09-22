@@ -1,2 +1,2 @@
-# ita-consultoria
+# Ita Consultoria
 Landing Page da empresa fictícia Ita Consultoria, desevolvida com o intuíto acadêmico.
